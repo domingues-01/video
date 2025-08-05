@@ -1,0 +1,10 @@
+header{
+    color: rgb(121, 156, 121);
+    border-bottom: solid 2px white;
+    margin-left: 2px;
+} 
+body{
+    color: azure;
+    background-color: black;
+    padding: 20px;
+}
